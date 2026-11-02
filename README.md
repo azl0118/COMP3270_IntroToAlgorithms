@@ -1,5 +1,4 @@
 # COMP 3270 - Introduction to Algorithms
-
 This repository contains homework and programming assignments completed for COMP 3270: Introduction to Algorithms
 Auburn University.
 
