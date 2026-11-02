@@ -1,7 +1,7 @@
 # COMP 3270 - Introduction to Algorithms
-This repository contains homework and programming assignments completed for COMP 3270: Introduction to Algorithms
+This repository contains homework and programming assignments completed for COMP 3270: Introduction to Algorithms.
 
-Auburn University.
+Auburn University
 
 The course focuses on designing, analyzing, and evaluating algorithms used to solve computational problems. Topics include algorithm efficiency, time complexity, algorithm design techniques, and performance analysis.
 
