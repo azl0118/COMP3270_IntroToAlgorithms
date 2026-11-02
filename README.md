@@ -7,18 +7,29 @@ The course focuses on designing, analyzing, and evaluating algorithms used to so
 
 ## Course Topics
 
-- Algorithm design and analysis
-- Time and space complexity
-- Asymptotic notation (Big O, Omega, Theta)
+- Algorithm design, and correctness proofs
+- Time and space complexity (Big O, Omega, Theta)
 - Recursion and recurrence relations
-- Divide-and-conquer algorithms
-- Sorting and searching algorithms
-- Algorithm correctness and efficiency
+- Sorting and searching algorithms(QuickSort, MergeSort, HeapSort, etc.)
+- Priority queues, binary heaps, and disjoint sets
+- Graph Algorithms (BFS, DFS, topological sorting)
+- Minimum spanning trees (Prim's and Kruskal's algorithms)
+- Shortest path algorithms (Dijkstra's and Bellman-Ford)
+- Introduction to machine learning and probabilistic algorithms
+- Computational complexity (P, NP, NP-completeness)
 
-## Repository Contents
+## Assignments, Main Project
 
 - `HW1_COMP3270.pdf` - Homework Assignment 1
 - `Homework_2(COMP3270).pdf` - Homework Assignment 2
 - `HW3_COMP3270.pdf` - Homework Assignment 3
 - `HW4_COMP3270.pdf` - Homework Assignment 4
-- `ProgrammingAssignment_COMP3270.zip` - Programming assignment files
+- `ProgrammingAssignment_COMP3270.zip` - Matrix Mulitplication Analysis
+  Implemented and comparsion of five matrix multiplication algorithms: standard, blocked, recursive, divide-and-conquer, and Strassen's algorithm.
+  - Measured execution times across different matrix sizes.
+  - Compared empirical performance with theoretical time complexity.
+  - Visualized algorithm performance using graphs.
+  - Implemented dynamic programming for matrix chain multiplication to compare sequential and optimal multiplication orders.
+    
+Technologies: Python, NumPy, Pandas, Matplotlib, Jupyter Notebook
+
